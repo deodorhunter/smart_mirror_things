@@ -1,12 +1,11 @@
 compliments: {
-		anytime: [
-			"Per vedermi veramente dentro servirebbe un'autopsia",
-      "Ho stato io col trattore"
-		],
-		morning: [
-		],
-		afternoon: [
-		],
-		evening: [
-		]
-	}
+	anytime: [
+		"Per vedermi veramente dentro servirebbe un'autopsia",
+      		"Ho stato io col trattore",
+		"Io non sono razzista..MA",
+		
+	],
+	morning: [],
+	afternoon: [],
+	evening: []
+}
